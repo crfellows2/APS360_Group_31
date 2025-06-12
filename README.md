@@ -1,0 +1,14 @@
+project/
+    README.md
+    .gitignore
+    requirements.txt
+    data/
+        README.md
+        sample/
+    src/
+        data_processing.py
+        train.py
+        utils.py
+    results/
+        figures/
+        metrics/
